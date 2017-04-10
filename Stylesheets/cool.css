@@ -1,0 +1,29 @@
+/* David Zhou ICS2O7-O2 */
+body
+{
+	background-image: url(../Pictures/cool.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin: 5%;
+
+}
+
+h1
+{
+	color: gold;
+}
+
+h2
+{
+	color: gold;
+}
+
+ul
+{
+	text-align: center justify;
+	font-size: 14pt;
+	font-weight: bold;
+	outline: yellow;
+	color: Blue;
+}
